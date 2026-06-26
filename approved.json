@@ -1,7 +1,7 @@
 {
   "app": "Bursa İndirim Avcısı",
-  "generated_at": "2026-06-27T01:10:26",
-  "count": 23,
+  "generated_at": "2026-06-27T01:11:48",
+  "count": 24,
   "markets": [
     {
       "name": "Furpa",
@@ -17,7 +17,7 @@
     },
     {
       "name": "ŞOK",
-      "count": 4
+      "count": 5
     }
   ],
   "brochures": [
@@ -203,6 +203,14 @@
       "valid_until": "2026-06-30",
       "captured_at": "2026-06-25T22:58:24",
       "image_url": "images/brochure_374_ŞOK_d8aaac59e410bfdb.jpg",
+      "source_url": "manual_folder"
+    },
+    {
+      "id": 373,
+      "market": "ŞOK",
+      "valid_until": "2026-06-30",
+      "captured_at": "2026-06-25T22:58:24",
+      "image_url": "images/brochure_373_ŞOK_76cbea7d1cf23fbc.jpg",
       "source_url": "manual_folder"
     }
   ]

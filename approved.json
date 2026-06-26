@@ -1,0 +1,209 @@
+{
+  "app": "Bursa İndirim Avcısı",
+  "generated_at": "2026-06-26T11:10:09",
+  "count": 23,
+  "markets": [
+    {
+      "name": "Furpa",
+      "count": 3
+    },
+    {
+      "name": "Onur Market",
+      "count": 10
+    },
+    {
+      "name": "Seyhanlar",
+      "count": 6
+    },
+    {
+      "name": "ŞOK",
+      "count": 4
+    }
+  ],
+  "brochures": [
+    {
+      "id": 41,
+      "market": "Furpa",
+      "valid_until": "2026-06-28",
+      "captured_at": "2026-06-25T22:58:06",
+      "image_url": "images/brochure_41_Furpa_e8ccd549d391b35d.jpg",
+      "source_url": "manual_folder"
+    },
+    {
+      "id": 40,
+      "market": "Furpa",
+      "valid_until": "2026-06-28",
+      "captured_at": "2026-06-25T22:58:06",
+      "image_url": "images/brochure_40_Furpa_f962d71297750202.jpg",
+      "source_url": "manual_folder"
+    },
+    {
+      "id": 39,
+      "market": "Furpa",
+      "valid_until": "2026-06-28",
+      "captured_at": "2026-06-25T22:58:06",
+      "image_url": "images/brochure_39_Furpa_ced96e7658f36f79.jpg",
+      "source_url": "manual_folder"
+    },
+    {
+      "id": 388,
+      "market": "Onur Market",
+      "valid_until": "2026-06-29",
+      "captured_at": "2026-06-26T04:46:30",
+      "image_url": "images/brochure_388_Onur_Market_934f5475ea40ce17.jpg",
+      "source_url": "manual_folder"
+    },
+    {
+      "id": 387,
+      "market": "Onur Market",
+      "valid_until": "2026-06-29",
+      "captured_at": "2026-06-26T04:46:30",
+      "image_url": "images/brochure_387_Onur_Market_c5832dc6d0ac0f4b.jpg",
+      "source_url": "manual_folder"
+    },
+    {
+      "id": 386,
+      "market": "Onur Market",
+      "valid_until": "2026-06-29",
+      "captured_at": "2026-06-26T04:46:30",
+      "image_url": "images/brochure_386_Onur_Market_ecd9ee121a26dcd8.jpg",
+      "source_url": "manual_folder"
+    },
+    {
+      "id": 385,
+      "market": "Onur Market",
+      "valid_until": "2026-06-29",
+      "captured_at": "2026-06-26T04:46:30",
+      "image_url": "images/brochure_385_Onur_Market_f8483358ddc0aa5b.jpg",
+      "source_url": "manual_folder"
+    },
+    {
+      "id": 384,
+      "market": "Onur Market",
+      "valid_until": "2026-06-29",
+      "captured_at": "2026-06-26T04:46:30",
+      "image_url": "images/brochure_384_Onur_Market_11fee70238f3598d.jpg",
+      "source_url": "manual_folder"
+    },
+    {
+      "id": 383,
+      "market": "Onur Market",
+      "valid_until": "2026-06-29",
+      "captured_at": "2026-06-26T04:46:30",
+      "image_url": "images/brochure_383_Onur_Market_66d994fe35c32480.jpg",
+      "source_url": "manual_folder"
+    },
+    {
+      "id": 382,
+      "market": "Onur Market",
+      "valid_until": "2026-06-29",
+      "captured_at": "2026-06-26T04:46:30",
+      "image_url": "images/brochure_382_Onur_Market_cf28610e526f6150.jpg",
+      "source_url": "manual_folder"
+    },
+    {
+      "id": 381,
+      "market": "Onur Market",
+      "valid_until": "2026-06-29",
+      "captured_at": "2026-06-26T04:46:30",
+      "image_url": "images/brochure_381_Onur_Market_1a481d35725ed5a5.jpg",
+      "source_url": "manual_folder"
+    },
+    {
+      "id": 380,
+      "market": "Onur Market",
+      "valid_until": "2026-06-29",
+      "captured_at": "2026-06-26T04:46:30",
+      "image_url": "images/brochure_380_Onur_Market_2bd2d5548cf3d57c.jpg",
+      "source_url": "manual_folder"
+    },
+    {
+      "id": 344,
+      "market": "Onur Market",
+      "valid_until": "2026-06-30",
+      "captured_at": "2026-06-25T22:58:23",
+      "image_url": "images/brochure_344_Onur_Market_20c56e06bdd6a8e9.jpg",
+      "source_url": "manual_folder"
+    },
+    {
+      "id": 369,
+      "market": "Seyhanlar",
+      "valid_until": "2026-06-28",
+      "captured_at": "2026-06-25T22:58:24",
+      "image_url": "images/brochure_369_Seyhanlar_1eeba60b5f97c63b.jpg",
+      "source_url": "manual_folder"
+    },
+    {
+      "id": 368,
+      "market": "Seyhanlar",
+      "valid_until": "2026-06-28",
+      "captured_at": "2026-06-25T22:58:24",
+      "image_url": "images/brochure_368_Seyhanlar_37a7d47f11ae3f0c.jpg",
+      "source_url": "manual_folder"
+    },
+    {
+      "id": 367,
+      "market": "Seyhanlar",
+      "valid_until": "2026-06-28",
+      "captured_at": "2026-06-25T22:58:24",
+      "image_url": "images/brochure_367_Seyhanlar_a5633260638f9b4b.jpg",
+      "source_url": "manual_folder"
+    },
+    {
+      "id": 366,
+      "market": "Seyhanlar",
+      "valid_until": "2026-06-28",
+      "captured_at": "2026-06-25T22:58:24",
+      "image_url": "images/brochure_366_Seyhanlar_de9295fc29d1a2fc.jpg",
+      "source_url": "manual_folder"
+    },
+    {
+      "id": 365,
+      "market": "Seyhanlar",
+      "valid_until": "2026-06-28",
+      "captured_at": "2026-06-25T22:58:24",
+      "image_url": "images/brochure_365_Seyhanlar_1dc3d8a2bb895f09.jpg",
+      "source_url": "manual_folder"
+    },
+    {
+      "id": 364,
+      "market": "Seyhanlar",
+      "valid_until": "2026-06-28",
+      "captured_at": "2026-06-25T22:58:24",
+      "image_url": "images/brochure_364_Seyhanlar_2af0cf7e3a55efb3.jpg",
+      "source_url": "manual_folder"
+    },
+    {
+      "id": 377,
+      "market": "ŞOK",
+      "valid_until": "2026-06-30",
+      "captured_at": "2026-06-25T22:58:24",
+      "image_url": "images/brochure_377_ŞOK_27e2d7e19ba8aa9f.jpg",
+      "source_url": "manual_folder"
+    },
+    {
+      "id": 376,
+      "market": "ŞOK",
+      "valid_until": "2026-06-30",
+      "captured_at": "2026-06-25T22:58:24",
+      "image_url": "images/brochure_376_ŞOK_724f31c4c5a16b7a.jpg",
+      "source_url": "manual_folder"
+    },
+    {
+      "id": 375,
+      "market": "ŞOK",
+      "valid_until": "2026-06-30",
+      "captured_at": "2026-06-25T22:58:24",
+      "image_url": "images/brochure_375_ŞOK_307c7b758f64c02f.jpg",
+      "source_url": "manual_folder"
+    },
+    {
+      "id": 374,
+      "market": "ŞOK",
+      "valid_until": "2026-06-30",
+      "captured_at": "2026-06-25T22:58:24",
+      "image_url": "images/brochure_374_ŞOK_d8aaac59e410bfdb.jpg",
+      "source_url": "manual_folder"
+    }
+  ]
+}

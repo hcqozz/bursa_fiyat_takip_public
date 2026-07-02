@@ -1,11 +1,11 @@
 {
   "app": "Bursa İndirim Avcısı",
-  "generated_at": "2026-07-03T01:50:32",
-  "count": 3,
+  "generated_at": "2026-07-03T01:50:58",
+  "count": 4,
   "markets": [
     {
       "name": "Mustaç Gross",
-      "count": 3
+      "count": 4
     }
   ],
   "brochures": [
@@ -23,6 +23,14 @@
       "valid_until": "2026-07-05",
       "captured_at": "2026-07-03T01:40:48",
       "image_url": "images/brochure_396_Mustaç_Gross_6cdfa255299b0ea2.jpg",
+      "source_url": "manual_folder"
+    },
+    {
+      "id": 395,
+      "market": "Mustaç Gross",
+      "valid_until": "2026-07-05",
+      "captured_at": "2026-07-03T01:40:48",
+      "image_url": "images/brochure_395_Mustaç_Gross_a6147dcf73425e01.jpg",
       "source_url": "manual_folder"
     },
     {
